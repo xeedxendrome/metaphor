@@ -21,4 +21,4 @@ jobs:
           message: |
              thank you for contributing in my repository! :wave:
           reactions: eyes, rocket
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         
